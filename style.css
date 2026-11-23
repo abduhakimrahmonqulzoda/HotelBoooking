@@ -319,3 +319,123 @@
     background-color: #3771C8;
     border-radius: 5px;
 }
+.section5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 120px;
+    margin-bottom: 100px;
+    font-family: sans-serif;
+}
+
+.sec5top {
+    width: 1580px;
+}
+
+.sec5p1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #222222;
+}
+
+.sec5p2 {
+    font-size: 20px;
+    color: #555555;
+    width: 520px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.sec5tabs {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.sec5stars {
+    display: flex;
+    gap: 25px;
+}
+
+.starbtn {
+    width: 120px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #555555;
+    cursor: pointer;
+}
+
+.starbtn-active {
+    border: 1px solid #222222;
+    color: #222222;
+}
+
+.sec5cards {
+    display: flex;
+    gap: 35px;
+    margin-top: 50px;
+}
+
+.sec5card {
+    width: 503px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    background-color: white;
+}
+
+.sec5img {
+    width: 503px;
+    height: 380px;
+    border-radius: 15px 15px 0 0;
+}
+
+.sec5info {
+    padding: 30px;
+}
+
+.cardp1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #222222;
+}
+
+.cardp2 {
+    font-size: 16px;
+    color: #555555;
+    line-height: 26px;
+    margin-top: 15px;
+}
+
+.cardbottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.cardprice {
+    font-size: 28px;
+    font-weight: bold;
+    color: #3771C8;
+}
+
+.cardprice span {
+    font-size: 16px;
+    font-weight: normal;
+    color: #555555;
+}
+
+.cardbtn {
+    width: 100px;
+    height: 40px;
+    background-color: #3771C8;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    cursor: pointer;
+}
