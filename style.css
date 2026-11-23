@@ -183,3 +183,71 @@
     margin-top: 20px;
     line-height: 28px;
 }
+.section3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    margin-top: 140px;
+    font-family: sans-serif;
+}
+
+.sec3img {
+    width: 780px;
+    border-radius: 15px;
+}
+
+.sec3p1 {
+    font-size: 56px;
+    font-weight: bold;
+    width: 580px;
+    line-height: 70px;
+    color: #222222;
+}
+
+.sec3p2 {
+    font-size: 20px;
+    color: #555555;
+    width: 680px;
+    line-height: 32px;
+    margin-top: 30px;
+}
+
+.sec3stats {
+    display: flex;
+    gap: 75px;
+    margin-top: 45px;
+}
+
+.statp1 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #222222;
+}
+
+.statp2 {
+    font-size: 18px;
+    color: #555555;
+    margin-top: 10px;
+}
+
+.sec3btn {
+    width: 200px;
+    height: 65px;
+    background-color: #3771C8;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 190px;
+    margin-top: 140px;
+    margin-bottom: 100px;
+}
