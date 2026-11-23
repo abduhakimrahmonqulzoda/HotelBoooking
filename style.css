@@ -520,3 +520,51 @@
     border-radius: 0 15px 15px 0;
     margin-right: -40px;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    margin-bottom: 100px;
+    font-family: sans-serif;
+}
+
+.footerbox {
+    width: 1580px;
+    display: flex;
+    justify-content: center;
+    gap: 480px;
+}
+
+.footp1 {
+    font-size: 18px;
+    color: #555555;
+    width: 280px;
+    line-height: 28px;
+    margin-top: 25px;
+}
+
+.footsocials {
+    display: flex;
+    gap: 25px;
+    margin-top: 30px;
+}
+
+.footlinks {
+    display: flex;
+    gap: 160px;
+    margin-right:120px;
+}
+
+.foottitle {
+    font-size: 24px;
+    font-weight: bold;
+    color: #222222;
+    margin-bottom: 30px;
+}
+
+.footlink {
+    font-size: 18px;
+    color: #555555;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
